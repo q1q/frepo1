@@ -1,0 +1,12 @@
+{
+	"server" : {
+	"name" : "tst44",
+	"imageRef" : "3afe97b2-26dc-49c5-a2cc-a2fc8d80c001", "flavorRef" : "2",
+	"personality" : [
+		     {
+			"path" : "/root/.ssh/authorized_keys",
+			"contents" : "c3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFEaEFCQ3RyYitTSmVmSG8rUkdhSDhyYm9pY3VoemNBWHpOZXJnWlMzQmRyM2NCU0g4L1dqYThqZXRCNkNSa3hCaW1RZWw2WHE4aDdEbmswTGt2anZYcEsyMUxia1dIQ2JOaFl3anlDZ04zQmxVR0Z4Z0pRK2VjZDZWYUNCQ01DcklGMEpmSlNMbEJ4VFBHRmZybm1PMllDb0QrVmUyL3dLR3NKdU92T2dSRmEzeTFYSVRyeTlOWk05TFBkOEhuZzZRN3JRMTdYMU5TbDlLZWlKdFZIYTdjZFhpYnkxNUk0RUFYYkRaTWdCbFIxMXl5QklhSHZaUlpNRmU1L3hOdmllUHpBQmZHMlcvTXBzcHRXcVdMb3B5RWdPQ0J6TjZ0WjdHQlVyVEthZDFFamw5Vmd4d2piQWQraUp4THE2cjdpNVlvekcvZlAwSDF0VS80YTNHWHY3VFIKCgo="
+
+	} 
+	]
+	} }

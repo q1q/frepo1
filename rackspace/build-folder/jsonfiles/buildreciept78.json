@@ -1,0 +1,17 @@
+{
+    "server": {
+        "OS-DCF:diskConfig": "AUTO", 
+        "adminPass": "MFAPDp2G4kdf", 
+        "id": "c59ced7a-060f-4527-8581-12b9cb50ef05", 
+        "links": [
+            {
+                "href": "https://dfw.servers.api.rackspacecloud.com/v2/817848/servers/c59ced7a-060f-4527-8581-12b9cb50ef05", 
+                "rel": "self"
+            }, 
+            {
+                "href": "https://dfw.servers.api.rackspacecloud.com/817848/servers/c59ced7a-060f-4527-8581-12b9cb50ef05", 
+                "rel": "bookmark"
+            }
+        ]
+    }
+}

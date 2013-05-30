@@ -1,0 +1,20 @@
+on the first connect (to download the repository going forward) it may be wise to set certain environment variables for all
+scripts to call on... one thing is the name of the repository folder. 
+
+when a script (particular mining script) is initiated with parameters for a pool. these parameters should be saved the on the
+machine. and only re-written... if the script is reissued withi new parameters... 
+
+my idea:
+
+a new script called "resumecuda.sh"
+
+FILE_A="~/parameters.txt" 
+
+IP_PARAM=$(echo $FILE_A | cut -d ':' -f2)
+PASS_PARAM=$(echo $FILE_A | cut -d ':' -f3) 
+DATE=$(date)
+echo "$DATE	starting cudacminer.sh on startup" >> log.txt 
+sh startcuda.sh $IP_PARAM $PASS_PARAM &
+exit 
+
+

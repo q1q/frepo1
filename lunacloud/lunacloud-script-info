@@ -1,0 +1,15 @@
+rackspace
+
+main processes:
+
+create servers; create hostname file.
+
+for create-servers we generate configuration files with script called:	create-server-xml.sh 
+the main components is a file called static-create.xml for the base server infos. And the script variables
+can be modified accordingly for "howmany" and name of server. 
+
+use curl-create-server.sh to allocate and curl-short-cmd.sh to START / STOP and get IP. 
+
+to iterate the command over x servers, the parameter interval is a reference to the index of a name. and the
+constant string in the server name... should be well constant. 
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ve>
+    <id>7463</id>
+    <uuid>43a01a85.13eddad25e0._7fff</uuid>
+    <hnId>97</hnId>
+    <customer-id>1002256</customer-id>
+    <name>q2q1</name>
+    <hostname>q2q1</hostname>
+    <description></description>
+    <subscription-id>1002456</subscription-id>
+    <cpu number="8" power="1500"/>
+    <ram-size>512</ram-size>
+    <bandwidth>10240</bandwidth>
+    <ve-disk created="true" id="0" local="true" size="10"/>
+    <platform>
+        <template-info name="ubuntu-12.04-x86_64-FR"/>
+        <os-info type="linux-fr-paris" technology="CT"/>
+    </platform>
+    <network private-ip="10.146.190.0/11">
+        <public-ip chunk-ref="9" id="13713" address="185.12.117.29/22" gateway="185.12.116.1"/>
+    </network>
+    <state>STARTED</state>
+    <primary-disk-id>0</primary-disk-id>
+    <template-id>142</template-id>
+    <admin login="root" password="[hidden]"/>
+    <steady-state>STARTED</steady-state>
+</ve>

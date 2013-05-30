@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ve>
+<name>Web40</name>
+<description>VE Linux 40</description>
+<subscription-id>1002456</subscription-id>
+<cpu number="2" power="1500"/>
+<ram-size>512</ram-size>
+<bandwidth>100</bandwidth>
+<no-of-public-ip>2</no-of-public-ip>
+<no-of-public-ipv6>2</no-of-public-ipv6>
+<ve-disk local="true" size="3"/>
+<platform>
+<template-info name="centos-6-x86_64"/>
+<os-info technology="CT" type="linux-free"/>
+</platform>
+<backup-schedule name="daily"/>
+<admin login="root" password="152eyyBHO"/>
+</ve>
+
+	

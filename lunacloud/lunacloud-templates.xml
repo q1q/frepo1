@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template-list>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="1" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="93" name="centos-5-x86" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="centos-5"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="1" low-watermark-for-delivery="70" high-watermark-for-delivery="100" id="24" name="centos-5-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="centos-5"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="1" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="92" name="centos-6-x86" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="centos-6"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="Any"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="true" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="1" low-watermark-for-delivery="50" high-watermark-for-delivery="100" id="18" name="centos-6-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="centos-6"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="73" name="debian-6.0-x86" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="Debian 6.0"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="74" name="debian-6.0-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Debian 6.0"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="1" low-watermark-for-delivery="59" high-watermark-for-delivery="88" id="108" name="fedora-17-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Fedora 17"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="69" name="fedora-core-15-x86" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="Fedora 15"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="70" name="fedora-core-15-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Fedora 15"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="71" name="fedora-core-16-x86" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="Fedora 16"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="72" name="fedora-core-16-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Fedora 16"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="75" name="suse-12.1-x86" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="openSUSE 12.1"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="76" name="suse-12.1-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="openSUSE 12.1"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="1" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="60" name="ubuntu-10.04-x86" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="Ubuntu 10.04"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="61" name="ubuntu-10.04-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Ubuntu 10.04"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="62" name="ubuntu-10.10-x86" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="Ubuntu 10.10"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="63" name="ubuntu-10.10-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Ubuntu 10.10"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="66" name="ubuntu-11.04-x86" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="Ubuntu 11.04"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="65" name="ubuntu-11.04-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Ubuntu 11.04"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="68" name="ubuntu-11.10-x86" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="Ubuntu 11.10"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="5" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="67" name="ubuntu-11.10-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Ubuntu 11.10"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="1" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="103" name="ubuntu-12.04-x86" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="Ubuntu 12.04"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="1" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="102" name="ubuntu-12.04-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Ubuntu 12.04"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="136" name="centos-5-x86_64-FR" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="centos-5"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="135" name="centos-5-x86-FR" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="centos-5"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="true" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="50" high-watermark-for-delivery="80" id="138" name="centos-6-x86_64-FR" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="centos-6"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="Any"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="137" name="centos-6-x86-FR" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="centos-6"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="140" name="debian-6.0-x86_64-FR" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Debian 6.0"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="139" name="debian-6.0-x86-FR" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="Debian 6.0"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="132" name="fedora-17-x86_64-FR" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Fedora 17"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="131" name="fedora-17-x86-FR" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="Fedora 17"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="134" name="fedora-18-x86_64-FR" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Fedora 18"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="133" name="fedora-18-x86-FR" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="Fedora 18"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="146" name="suse-12.1-x86_64-FR" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="openSUSE 12.1"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="145" name="suse-12.1-x86-FR" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="openSUSE 12.1"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="148" name="suse-12.2-x86_64-FR" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="openSUSE 12.2"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="147" name="suse-12.2-x86-FR" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="openSUSE 12.2"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="144" name="ubuntu-11.04-x86_64-FR" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Ubuntu 11.04"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="143" name="ubuntu-11.04-x86-FR" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="Ubuntu 11.04"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="142" name="ubuntu-12.04-x86_64-FR" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Ubuntu 12.04"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="CT" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="141" name="ubuntu-12.04-x86-FR" active="true">
+        <option name="arch" value="x86"/>
+        <option name="edition" value="Ubuntu 12.04"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="Appliance" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="96" name="CA-CentOS-62-BlogServer-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Blog Server"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="Appliance" technology="VM" default="true" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="98" name="CA-CentOS-62-SiteServer-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Site Server"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="Appliance" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="100" name="CA-Clojure-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Clojure"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="Appliance" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="97" name="CA-NodeJS-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="NodeJS"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="Appliance" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="9" high-watermark-for-delivery="86" id="111" name="mongodbtmpl" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="MongoDB (alpha)"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="Appliance" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="54" high-watermark-for-delivery="90" id="112" name="RubyOnRails" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Cloud Ruby on Rails"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="appliance-fr-paris" technology="VM" default="true" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="151" name="FRCA-CentOS-62-BlogServer-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Blog Server"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="appliance-fr-paris" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="152" name="FRCA-CentOS-62-SiteServer-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Site Server"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="appliance-fr-paris" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="153" name="FRCA-Clojure-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Clojure"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="appliance-fr-paris" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="154" name="FRCA-NodeJS-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="NodeJS"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="appliance-fr-paris" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="155" name="FRRubyonRails" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Cloud Ruby on Rails"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-free" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="55" name="CentOS-58-x86_64-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="CentOS 5.8"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="VM" default="true" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="56" name="CentOS-62-x86_64-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="CentOS 6.2"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="54" name="Debian-6-x86_64-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Debian 6.0"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="57" name="Fedora-15-x86_64-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Fedora 15"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="99" name="Fedora-16-x86_64-vm-v2" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Fedora 16"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="59" name="Suse-12.1-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="openSUSE 12.1"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="51" name="Ubuntu-11.10-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Ubuntu 11.10"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-free" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="104" name="Ubuntu-12.04-x86_64-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Ubuntu 12.04"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="linux-fr-paris" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="126" name="FRCentOS-58-x86_64-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="CentOS 5.8"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="VM" default="true" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="56" high-watermark-for-delivery="80" id="127" name="FRCentOS-64-x86_64-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="CentOS 6.4"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="128" name="FRDebian-6-x86_64-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Debian 6.0"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="129" name="FRSuse-12.1-x86_64" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="openSUSE 12.1"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="130" name="FRUbuntu-12.04-x86_64-vm" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Ubuntu 12.04"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="linux-fr-paris" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="50" high-watermark-for-delivery="100" id="123" name="temp" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="CentOS 6.2"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="mongo-os" technology="VM" default="false" root-login="root" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="20" high-watermark-for-delivery="80" id="113" name="mongobeta" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="MongoDB (beta)"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="windows" technology="VM" default="true" root-login="Administrator" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="50" high-watermark-for-delivery="100" id="49" name="w2k8std" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Windows Server 2008 Standard"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="windows" technology="VM" default="false" root-login="Administrator" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="10" low-watermark-for-delivery="80" high-watermark-for-delivery="100" id="48" name="w2k8web" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Windows Server 2008 Web Edition"/>
+        <option name="lang" value="English"/>
+    </template>
+    <template osType="windows-fr-paris" technology="VM" default="true" root-login="Administrator" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="20" low-watermark-for-delivery="61" high-watermark-for-delivery="80" id="149" name="FRw2k8std" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Windows Server 2008 Standard"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+    <template osType="windows-fr-paris" technology="VM" default="false" root-login="Administrator" pwd-regex="[0-9]{3}[a-z]{3}[A-Z]{3}" min-hdd-size="20" low-watermark-for-delivery="60" high-watermark-for-delivery="80" id="150" name="FRw2k8web" active="true">
+        <option name="arch" value="x86_64"/>
+        <option name="edition" value="Windows Server 2008 Web Edition"/>
+        <option name="lang" value="English"/>
+        <option name="version" value="1.0"/>
+    </template>
+</template-list>

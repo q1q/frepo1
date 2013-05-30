@@ -1,0 +1,5 @@
+USER="zagatsky-jessup@rogiservice.com"
+PASS="5erdB2V3ig"
+
+AUTH=$(echo $USER:$PASS | base64)
+echo $AUTH

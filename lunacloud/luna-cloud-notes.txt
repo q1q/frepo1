@@ -1,0 +1,3 @@
+send iterative curl requests with file name changing... so make-xml-changes
+
+the createserv2 script takes one line appends it to static file repeatedly OKAY... 

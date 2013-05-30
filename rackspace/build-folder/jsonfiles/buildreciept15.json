@@ -1,0 +1,17 @@
+{
+    "server": {
+        "OS-DCF:diskConfig": "AUTO", 
+        "adminPass": "GE5sVE89RLwp", 
+        "id": "60a101df-3233-42a6-bcf9-be31c0ebf923", 
+        "links": [
+            {
+                "href": "https://dfw.servers.api.rackspacecloud.com/v2/817848/servers/60a101df-3233-42a6-bcf9-be31c0ebf923", 
+                "rel": "self"
+            }, 
+            {
+                "href": "https://dfw.servers.api.rackspacecloud.com/817848/servers/60a101df-3233-42a6-bcf9-be31c0ebf923", 
+                "rel": "bookmark"
+            }
+        ]
+    }
+}

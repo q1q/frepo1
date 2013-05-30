@@ -1,0 +1,281 @@
+
+Host rs38
+Hostname 50.56.173.145
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs39
+Hostname 198.101.247.197
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs40
+Hostname 198.101.241.51
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs41
+Hostname 198.101.247.167
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs42
+Hostname 198.61.193.79
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs43
+Hostname 198.101.247.235
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs44
+Hostname 198.61.193.121
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs45
+Hostname 198.61.193.201
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs46
+Hostname 198.61.193.148
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs47
+Hostname 198.61.193.229
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs48
+Hostname 198.61.193.68
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs49
+Hostname 198.61.193.197
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs50
+Hostname 198.61.193.241
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs51
+Hostname 198.61.193.15
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs52
+Hostname 198.61.193.172
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs53
+Hostname 198.61.193.87
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs54
+Hostname 50.56.173.67
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs55
+Hostname 198.61.193.62
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs56
+Hostname 198.61.193.34
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs57
+Hostname 198.61.193.137
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs58
+Hostname 198.61.193.228
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs59
+Hostname 198.61.193.206
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs60
+Hostname 198.61.193.111
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs61
+Hostname 198.61.193.59
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs62
+Hostname 198.61.193.244
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs63
+Hostname 50.56.174.193
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs64
+Hostname 50.56.175.118
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs65
+Hostname 50.56.172.167
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs66
+Hostname 198.61.193.13
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs67
+Hostname 198.61.193.98
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs68
+Hostname 198.61.194.180
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs69
+Hostname 198.61.193.47
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs70
+Hostname 198.61.194.147
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs71
+Hostname 198.61.194.81
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs72
+Hostname 198.61.194.56
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs73
+Hostname 198.61.194.39
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs74
+Hostname 198.61.194.194
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs75
+Hostname 198.61.194.55
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs76
+Hostname 198.61.194.36
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs77
+Hostname 198.61.194.119
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs78
+Hostname 198.61.194.50
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs79
+Hostname 198.61.194.177
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs80
+Hostname 198.61.194.31
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs81
+Hostname 198.61.194.162
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs82
+Hostname 198.61.194.42
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs83
+Hostname 50.56.185.109
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs84
+Hostname 198.61.194.100
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs85
+Hostname 198.61.194.181
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs86
+Hostname 198.61.194.159
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs87
+Hostname 198.61.194.219
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs88
+Hostname 50.56.174.24
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs89
+Hostname 50.56.177.194
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs90
+Hostname 198.101.245.224
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs91
+Hostname 198.101.245.23
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs92
+Hostname 198.61.194.243
+IdentityFile ~/.ssh/rs.key
+User root
+
+Host rs93
+Hostname 198.101.245.110
+IdentityFile ~/.ssh/rs.key
+User root
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ve>
+	<name>name1</name>
+	<description>description</description> 
+	<subscription-id>1002456</subscription-id>
+	<cpu number="8" power="1500"/>
+	<ram-size>512</ram-size>
+	<bandwidth>10240</bandwidth>
+	<no-of-public-ip>1</no-of-public-ip>
+	<no-of-public-ipv6>1</no-of-public-ipv6>
+	<ve-disk local="true" size="10"/> 
+	<platform>
+		<template-info name="ubuntu-12.04-x86_64-FR"/> 
+		<os-info technology="CT" type="linux-fr-paris"/>
+	</platform>
+	<backup-schedule name="daily"/>
+	<admin login="root" password="tunafish911Z"/>
+</ve>
